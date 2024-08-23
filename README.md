@@ -1,5 +1,3 @@
-# idea
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,9 +9,6 @@
 
 body {
     background-image: url(https://media.istockphoto.com/id/988364558/photo/decking-gray-seamless-texture-bump-displace-reflect-and-glossiness.jpg?s=612x612&w=0&k=20&c=lRPMSNSqqCwM3Ye_4b-K1AALigB17IFAbKm5oW7mYoQ=);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover; 
 }
 
 .container {
@@ -63,7 +58,7 @@ body {
 
 .w3-purple, .w3-hover-purple:hover {
 color: #fff!important;
-background-color: rgba(156, 39, 176, 0.6) !important;
+background-color: rgba(15, 270, 179, 0.36) !important;
 }
 </style>
   </head>
@@ -81,13 +76,13 @@ background-color: rgba(156, 39, 176, 0.6) !important;
       </div>
 
     <div class="links-container">
-      <a href="#" class="w3-button w3-hover-pink w3-large w3-round w3-purple w3-border link" target="_blank"><i class="fab fa-facebook"> </i>Sailor</a>
+      <a href="#" class="w3-button w3-hover-pink w3-large w3-round w3-purple w3-border link" target="_blank"><i class="fab fa-facebook"></i>Sailor</a>
       <br>
-      <a href="#" class="w3-button w3-hover-pink w3-large w3-round w3-purple w3-border link" target="_blank"><i class="fab fa-instagram"> </i>Ampitheater</a>
+      <a href="#" class="w3-button w3-hover-pink w3-large w3-round w3-purple w3-border link" target="_blank"><i class="fab fa-instagram"></i>Ampitheater</a>
       <br>
-      <a href="#" class="w3-button w3-hover-pink w3-large w3-round w3-purple w3-border link" target="_blank"><i class="fab fa-twitter"> </i>Masquerade</a>
+      <a href="#" class="w3-button w3-hover-pink w3-large w3-round w3-purple w3-border link" target="_blank"><i class="fab fa-twitter"></i>Masquerade</a>
       <br>
-      <a href="#" class="w3-button w3-hover-pink w3-large w3-round w3-purple w3-border link" target="_blank"><i class="fa fa-code"> </i>Github</a>
+      <a href="#" class="w3-button w3-hover-pink w3-large w3-round w3-purple w3-border link" target="_blank"><i class="fa fa-code"></i>Github</a>
     </div>
   </div>
 </div>
