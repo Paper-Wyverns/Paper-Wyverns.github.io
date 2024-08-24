@@ -85,7 +85,7 @@ background-color: rgba(15, 270, 179, 0.36) !important;
     <p class="w3-large" style="color: white"><strong>Check out our profiles!</strong></p>
 
       
-    <p class="w3-large" style="color: white"><strong>Paper Wyverns</strong></p>
+    <p class="w3-large" style="color: white"><strong>Paper Wyverns: Our Group Profile</strong></p>
     
     <div class="image-container">
     <img src="https://i.redd.it/74v5z6dovcfb1.jpg" class="w3-margin" alt="Bio picture" max-width="100%" height="150px" style="border-radius: 5%; alt=">
