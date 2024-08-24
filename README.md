@@ -67,12 +67,12 @@ background-color: rgba(15, 270, 179, 0.36) !important;
   <body class="w3-white">
     <!-- Content container -->
     <div class="container">
-
-    <div class="image-container">
-    <img src="https://i.redd.it/74v5z6dovcfb1.jpg" class="w3-margin" alt="Bio picture" max-width="100%" height="150px" style="border-radius: 50%; alt=">
+        
+        <h1 align="center" style="color: white">Paper Wyverns' Bio!</h1>
+    
      <div class="w3-text-white">
      <p class="w3-text-white w3-large">Welcome to the team of dork's site, the Paper Wyverns' Bio. We make stuff to play games and bypass securely. Our little group consists of AcidDS, Paper Pelican, and Legendarily Fails.</p>
-     <p class="w3-large"><strong>See what we made so far!</strong></p>
+     <p class="w3-large"><strong>See what we've made so far!</strong></p>
       </div>
 
     <div class="links-container">
@@ -87,6 +87,9 @@ background-color: rgba(15, 270, 179, 0.36) !important;
       
     <p class="w3-large" style="color: white"><strong>Paper Wyverns</strong></p>
     
+    <div class="image-container">
+    <img src="https://i.redd.it/74v5z6dovcfb1.jpg" class="w3-margin" alt="Bio picture" max-width="100%" height="150px" style="border-radius: 5%; alt=">
+    
     <a href="https://github.com/Paper-Wyverns" class="w3-button w3-hover-pink w3-large w3-round w3-purple w3-border link" target="_blank"><i class="fa fa-code"></i>Github</a></br>
     
     <a href="https://app.revolt.chat/invite/tpXpJry0" class="w3-button w3-hover-pink w3-large w3-round w3-purple w3-border link" target="_blank"><i class="fa fa-code"></i>Revolt</a></br>
@@ -94,14 +97,22 @@ background-color: rgba(15, 270, 179, 0.36) !important;
     <a href="https://bsky.app/profile/paper-wyverns.bsky.social" class="w3-button w3-hover-pink w3-large w3-round w3-purple w3-border link" target="_blank"><i class="fa fa-code"></i>Blue Sky</a>
 
     <p class="w3-large" style="color: white"><strong>Paper Pelican</strong></p>
-    <p>So hard to reach</p>
+    
+    <div class="image-container">
+    <img src="https://avatarfiles.alphacoders.com/358/thumb-1920-358084.png" class="w3-margin" alt="Bio picture" max-width="100%" height="150px" style="border-radius: 5%; alt=">
     
     <p class="w3-large" style="color: white"><strong>Legendarily Fails</strong></p>
+    
+    <div class="image-container">
+    <img src="https://avatarfiles.alphacoders.com/375/thumb-350-375300.webp" class="w3-margin" alt="Bio picture" max-width="100%" height="150px" style="border-radius: 5%; alt=">
     
     <a href="https://github.com/toxic-hare" class="w3-button w3-hover-pink w3-large w3-round w3-purple w3-border link" target="_blank"><i class="fa fa-code"></i>Github</a>
     
     <p class="w3-large" style="color: white"><strong>AcidDS</strong></p>
     
+    <div class="image-container">
+    <img src="https://avatars.githubusercontent.com/u/167465166?v=4" class="w3-margin" alt="Bio picture" max-width="100%" height="150px" style="border-radius: 5%; alt=">
+
     <a href="https://github.com/DiceSwordplay" class="w3-button w3-hover-pink w3-large w3-round w3-purple w3-border link" target="_blank"><i class="fa fa-code"></i>Github</a>
       </div>
       
